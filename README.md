@@ -1,4 +1,4 @@
-Sublime
+Sublime[![views](https://sourcegraph.com/api/repos/github.com/Xuanwo/SublimeForWiz/.counters/views.png)](https://sourcegraph.com/github.com/Xuanwo/SublimeForWiz)
 =========
 # 介绍
 一个非常简单的为知插件，基于大神发布的Vim编辑器修改而来，使用了CodeMirror开源库，目前的功能只不过是更换了编辑页面而已，简陋的很。目标是为为知提供良好的代码高亮及Markdown实时渲染功能。
