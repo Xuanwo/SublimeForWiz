@@ -5,11 +5,13 @@ Sublime[![views](https://sourcegraph.com/api/repos/github.com/Xuanwo/SublimeForW
 
 # 版本信息
 主版本：v0.1
+
 CodeMirror版本：v4.5
 
 # Todo
-<i class="fa fa-square-o"></i> 完善代码高亮
-<i class="fa fa-square-o"></i> 完善Sublime的快捷键设定
+- 完善代码高亮
+
+- 完善Sublime的快捷键设定
 
 # 更新日志
 - 2014年08月27日 v0.1发布，上传至为知应用中心。
