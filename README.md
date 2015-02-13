@@ -6,7 +6,7 @@ Sublime[![views](https://sourcegraph.com/api/repos/github.com/Xuanwo/SublimeForW
 # 版本信息
 主版本：v0.1
 
-CodeMirror版本：v4.5
+CodeMirror版本：v4.12
 
 # Todo
 - 完善代码高亮
@@ -15,3 +15,4 @@ CodeMirror版本：v4.5
 
 # 更新日志
 - 2014年08月27日 v0.1发布，上传至为知应用中心。
+- 2015年02月13日 更新Mirror版本。
